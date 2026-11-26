@@ -1,10 +1,10 @@
 # Laporan Praktikum Mandiri: Arsitektur Aplikasi Flutter (MVC & MVVM) dan Pengujian
 ## 1. Identitas Mahasiswa
 
-* **Nama Lengkap:Fa'izal harish
-* **NIM:362558302082
-* **Kelas:TRPL 2E
-* **Tautan Repository:
+* Nama Lengkap:Fa'izal harish
+* NIM:362558302082
+* Kelas:TRPL 2E
+* Tautan Repository: https://github.com/faizalharish26-code/Bangun-aplikasi-Flutter-dengan-MVC-dan-MVVM
 
 ---
 
